@@ -1,1 +1,4 @@
-Hello World
+#! /bin/bash
+
+# this PR was submitted from the web interface
+echo "Hello World"

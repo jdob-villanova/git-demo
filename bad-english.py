@@ -12,7 +12,7 @@
 # limitations under the License.
 
 def talk():
-  print "I are good at english"
+  print "Ceci est un mauvais anglais"
 
 if __name__ == '__main__':
   talk()

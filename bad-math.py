@@ -12,7 +12,7 @@
 # limitations under the License.
 
 def add():
-  print "2 + 2 = 5"
+  print "2 + 2 = 4"
 
 if __name__ == '__main__':
   add()
